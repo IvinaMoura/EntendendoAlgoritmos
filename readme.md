@@ -4,9 +4,9 @@ Esse repositório tem como objetivo ir "documentando" meu estudo do livro Entend
 
 
 ## Conteúdos estudados:
--[ ] Cap 1: Algoritmo prático: pesquisa binária. Analisar a velocidade de um algoritmo utilizando a notação Big O.
--[ ] Cap 2: Arrays e listas encadeadas. 
--[ ] Cap 3: Recursão.
+- [ ] Cap 1: Algoritmo prático: pesquisa binária. Analisar a velocidade de um algoritmo utilizando a notação Big O.
+- [ ] Cap 2: Arrays e listas encadeadas. 
+- [ ] Cap 3: Recursão.
 
 > Obs.: O livro se demora mais na notação Big O e na recursão, visando um melhor entendimento para o leitor iniciante. 
 
